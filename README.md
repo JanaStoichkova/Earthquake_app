@@ -1,7 +1,7 @@
 # Earthquake Assignment
 
 This is a Spring Boot application that displays live earthquake data.There is a table view that shows all of the important fields and also a map view that shows the exact epicenter where the earthquake happened.
-Along with that the user has the ability to filter the entries by the magnitude and the time of their occurance. The data is fetched from USGS GeoJSON API and stored in a PostgreSQL database.
+Along with that the user has the ability to filter the entries by the magnitude and the time of their occurrence. The data is fetched from USGS GeoJSON API and stored in a PostgreSQL database.
 
 ![App Screenshot 1](<images/Screenshot 1.png>)
 ![App Screenshot 2](<images/Screenshot 2.png>)
@@ -16,7 +16,7 @@ Along with that the user has the ability to filter the entries by the magnitude 
 
 ### Clone the project
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JanaStoichkova/Earthquake_app.git
 cd earthquake-assignment
 ```
 
